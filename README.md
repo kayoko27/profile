@@ -55,7 +55,5 @@ admin / adminpass
 - PHP
 - MySQL
 - HTML / CSS
-- JavaScript
-- Git / GitHub
 
 ---
