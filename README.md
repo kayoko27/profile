@@ -28,6 +28,8 @@ https://github.com/kayoko27/php-bbs-mysql
 ### イベント管理システム（チーム開発）
 
 TECHBASEのチーム開発課題として作成したイベント管理システムです。
+Repository 
+https://github.com/kayoko27/TECHBASE-team
 
 デモ  
 https://tech-base.net/tb-270619/m7-4.php
