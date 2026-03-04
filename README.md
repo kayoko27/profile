@@ -14,7 +14,7 @@ PHPとCSVファイルを使用して作成した簡易掲示板です。
 投稿内容をCSVファイルに保存し、一覧表示する機能を実装しています。
 
 Repository  
-https://github.com/kayoko27/php-bbs-csv
+https://github.com/kayoko27/TECHBASE-
 
 ---
 
