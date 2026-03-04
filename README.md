@@ -23,7 +23,7 @@ PHPとMySQLを使用して作成した掲示板アプリです。
 投稿・削除・編集機能を実装し、データベースを用いて投稿データを管理しています。
 
 Repository  
-https://github.com/kayoko27/php-bbs-mysql
+https://github.com/kayoko27/TECHBASE-DB-
 
 ---
 
