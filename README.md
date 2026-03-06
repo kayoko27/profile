@@ -63,7 +63,7 @@ StreamlitとOpenAI APIを使用して実装しています。
 人物ごとの性格や価値観、思考スタイルをデータ化し、その情報をもとにAIが回答を生成する仕組みを構築しました。
 
 Repository
-
+https://github.com/kayoko27/AI
 
 ---
 
